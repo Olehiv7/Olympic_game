@@ -1,0 +1,5 @@
+,Athletics,Outdoor
+,Swimming,Water
+,Gymnastics,Indoor
+,Boxing,Indoor
+,Cycling,Outdoor

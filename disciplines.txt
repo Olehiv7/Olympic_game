@@ -1,0 +1,5 @@
+,100m Sprint,Olympic Stadium,Standard running rules,1
+,Long Jump,Olympic Stadium,Distance rules,1
+,Freestyle 100m,Aquatics Centre,Swimming rules,2
+,Vault,Gymnastics Hall,Judging rules,3
+,Boxing Lightweight,Boxing Arena,Boxing rules,4

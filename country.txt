@@ -1,0 +1,5 @@
+,Jamaica,North America
+,China,Asia
+,USA,North America
+,Spain,Europe
+,Ukraine,Europe
